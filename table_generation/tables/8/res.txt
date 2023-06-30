@@ -1,0 +1,24 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Sacramento Kings,24,31,114
+Denver Nuggets,22,35,110
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Sacramento Kings,DeMarcus Cousins,39,9,2,1,2
+Sacramento Kings,Rudy Gay,16,10,4,4,3
+Sacramento Kings,Rajon Rondo,0,0,12,0,0
+Sacramento Kings,Omri Casspi,14,9,2,1,0
+Sacramento Kings,Willie Cauley-Stein,10,5,1,1,2
+Sacramento Kings,Darren Collison,9,4,5,1,0
+Sacramento Kings,Marco Belinelli,9,0,0,0,0
+Denver Nuggets,Danilo Gallinari,17,1,1,1,0
+Denver Nuggets,Nikola Jokic,13,13,6,2,0
+Denver Nuggets,Kenneth Faried,13,7,1,1,1
+Denver Nuggets,Emmanuel Mudiay,11,0,4,1,1
+Denver Nuggets,Will Barton,18,6,4,0,0
+Denver Nuggets,Darrell Arthur,14,5,4,2,0
+Denver Nuggets,D.J. Augustin,10,3,4,1,0
+Denver Nuggets,Joffrey Lauvergne,10,6,0,0,0

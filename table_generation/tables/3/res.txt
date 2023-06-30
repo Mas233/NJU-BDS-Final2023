@@ -1,0 +1,18 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Atlanta Hawks,61,22,99
+Brooklyn Nets,38,45,92
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Atlanta Hawks,Kyle Korver,21,7,3,N\A,N\A
+Atlanta Hawks,Jeff Teague,17,N\A,3,1,N\A
+Atlanta Hawks,DeMarre Carroll,17,8,3,N\A,N\A
+Atlanta Hawks,Dennis Schroder,13,N\A,2,N\A,N\A
+Brooklyn Nets,Joe Johnson,17,6,6,N\A,N\A
+Brooklyn Nets,Brook Lopez,17,14,N\A,2,N\A
+Brooklyn Nets,Thaddeus Young,15,10,3,N\A,N\A
+Brooklyn Nets,Deron Williams,13,4,N\A,N\A,N\A
+Brooklyn Nets,Jarrett Jack,13,N\A,2,N\A,N\A

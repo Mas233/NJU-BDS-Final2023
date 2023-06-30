@@ -1,0 +1,21 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Toronto Raptors,25,15,106
+Orlando Magic,20,19,103
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Toronto Raptors,DeMar DeRozan,13,11,0,0,0
+Toronto Raptors,Kyle Lowry,24,8,7,1,1
+Toronto Raptors,Jonas Valanciunas,13,9,2,1,3
+Toronto Raptors,Luis Scola,11,2,0,3,0
+Toronto Raptors,Corey Joseph,19,3,4,2,0
+Toronto Raptors,Bismack Biyombo,11,0,0,0,0
+Toronto Raptors,Patrick Patterson,11,2,0,0,0
+Orlando Magic,Victor Oladipo,27,6,6,2,0
+Orlando Magic,Evan Fournier,21,3,3,1,0
+Orlando Magic,Nikola Vucevic,17,11,4,0,3
+Orlando Magic,Tobias Harris,16,11,3,1,0
+Orlando Magic,Jason Smith,0,5,4,0,1

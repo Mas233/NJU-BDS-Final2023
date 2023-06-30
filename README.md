@@ -19,3 +19,8 @@
 - 项目文件均采用硬编码，请勿轻易修改文件名、文件夹名、文件路径等。
 - OpenAI密钥保存于"C:\\key.txt"文件中，请确认本环境拥有该文件且已储存密钥。或通过修改`table_generation/const.py`中的`key`变量来指定密钥文件的路径。
 - 若出现OpenAI连接错误，请检查urllib3库版本是否高于1.25.11。若是，请使用`pip install urllib3==1.25.11`命令安装。
+
+# Data_Analysis
+用python和Pandas进行了两个分析
+- `rebounds_points.py`：清洗数据后计算所有收集到的Points和Rebounds之间的协方差和相关系数
+- `winner_wins.py`：清洗数据后计算历史胜率更高的队伍赢得当局比赛的比例

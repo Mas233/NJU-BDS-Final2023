@@ -1,0 +1,17 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Atlanta Hawks,1,1,106
+Washington Wizards,1,1,90
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Atlanta Hawks,DeMarre Carroll,22,6,4,N\A,N\A
+Atlanta Hawks,Paul Millsap,18,11,N\A,4,N\A
+Atlanta Hawks,Al Horford,18,N\A,6,3,N\A
+Atlanta Hawks,Kent Bazemore,10,N\A,N\A,N\A,N\A
+Washington Wizards,Ramon Sessions,21,N\A,4,N\A,N\A
+Washington Wizards,Bradley Beal,20,5,7,N\A,N\A
+Washington Wizards,Paul Pierce,15,5,N\A,N\A,N\A
+Washington Wizards,Otto Porter,15,8,5,N\A,N\A

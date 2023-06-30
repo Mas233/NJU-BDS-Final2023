@@ -1,0 +1,33 @@
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Los Angeles Lakers,Louis Williams,30,7,2,1,0
+Los Angeles Lakers,Larry Nance Jr.,15,14,2,1,0
+Los Angeles Lakers,Roy Hibbert,13,6,3,0,3
+Los Angeles Lakers,Jordan Clarkson,12,5,7,3,1
+Los Angeles Lakers,Brandon Bass,8,N\A,N\A,N\A,N\A
+Phoenix Suns,Brandon Knight,25,2,9,1,0
+Phoenix Suns,Devin Booker,10,4,1,1,0
+Phoenix Suns,Mirza Teletovic,16,8,1,N\A,N\A
+Phoenix Suns,Tyson Chandler,2,N\A,N\A,N\A,N\A
+Phoenix Suns,Jon Leuer,4,N\A,N\A,N\A,N\A
+Phoenix Suns,P.J. Tucker,5,N\A,N\A,N\A,N\A
+Phoenix Suns,T.J. Warren,0,N\A,N\A,N\A,N\A
+
+OVERALL
+Team,History Wins,History Loses,Score
+Los Angeles Lakers,8,27,97
+Phoenix Suns,12,25,77
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Los Angeles Lakers,Louis Williams,30,7,2,1,0
+Los Angeles Lakers,Larry Nance Jr.,15,14,2,1,0
+Roy Hibbert,13,6,3,0,3
+Jordan Clarkson,12,5,7,3,1
+Brandon Bass,8,N\A,N\A,N\A,N\A
+Phoenix Suns,Brandon Knight,25,2,9,1,0
+Devin Booker,10,4,1,1,0
+Mirza Teletovic,16,8,1,N\A,N\A
+Tyson Chandler,2,N\A,N\A,N\A,N\A
+Jon Leuer,4,N\A,N\A,N\A,N\A
+P.J. Tucker,5,N\A,N\A,N\A,N\A
+T.J. Warren,0,N\A,N\A,N\A,N\A

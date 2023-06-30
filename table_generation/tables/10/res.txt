@@ -1,0 +1,17 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Golden State Warriors,20,0-2,97-87
+New Orleans Pelicans,0-2,20,87-97
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Golden State Warriors,Klay Thompson,26,N/A,N/A,N/A,N/A
+Golden State Warriors,Stephen Curry,22,4,6,N/A,N/A
+Golden State Warriors,Draymond Green,14,12,5,2,2
+Golden State Warriors,Andrew Bogut,N/A,14,N/A,N/A,N/A
+New Orleans Pelicans,Anthony Davis,26,10,N/A,N/A,2
+New Orleans Pelicans,Eric Gordon,23,N/A,2,N/A,N/A
+New Orleans Pelicans,Tyreke Evans,16,10,7,N/A,N/A
+New Orleans Pelicans,Norris Cole,11,N/A,N/A,N/A,N/A

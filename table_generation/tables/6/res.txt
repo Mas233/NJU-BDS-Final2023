@@ -1,0 +1,17 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Cleveland Cavaliers,53,29,113
+Boston Celtics,40,42,100
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Cleveland Cavaliers,Kyrie Irving,30,3,2,N/A,N/A
+Cleveland Cavaliers,LeBron James,20,6,7,2,N/A
+Cleveland Cavaliers,Kevin Love,19,12,N/A,N/A,N/A
+Cleveland Cavaliers,Tristan Thompson,12,6,N/A,N/A,N/A
+Boston Celtics,Isaiah Thomas,22,5,10,N/A,N/A
+Boston Celtics,Kelly Olynyk,12,N/A,N/A,N/A,2
+Boston Celtics,Evan Turner,12,7,5,N/A,N/A
+Boston Celtics,Brandon Bass,10,N/A,2,N/A,N/A

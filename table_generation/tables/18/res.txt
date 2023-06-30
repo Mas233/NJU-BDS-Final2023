@@ -1,0 +1,18 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Chicago Bulls,18,12,102
+Indiana Pacers,18,13,100
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Chicago Bulls,Jimmy Butler,28,4,4,2,1
+Chicago Bulls,Pau Gasol,13,11,1,N\A,3
+Chicago Bulls,Aaron Brooks,29,N\A,N\A,N\A,N\A
+Chicago Bulls,Bobby Portis,16,7,N\A,1,1
+Indiana Pacers,George Hill,20,7,3,4,N\A
+Indiana Pacers,Paul George,19,N\A,N\A,N\A,N\A
+Indiana Pacers,Monta Ellis,13,5,5,2,N\A
+Indiana Pacers,Lavoy Allen,10,12,N\A,N\A,N\A
+Indiana Pacers,Rodney Stuckey,13,N\A,N\A,N\A,N\A

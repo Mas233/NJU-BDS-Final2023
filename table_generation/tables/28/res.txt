@@ -1,0 +1,17 @@
+
+
+OVERALL
+Team,History Wins,History Loses,Score
+Indiana Pacers,25,34,94
+Philadelphia 76ers,13,46,74
+
+PLAYERS
+Team,Player,Points,Rebounds,Assists,Steals,Blocks
+Indiana Pacers,George Hill,17,9,4,N\A,N\A
+Indiana Pacers,Roy Hibbert,14,15,N\A,N\A,5
+Indiana Pacers,Rodney Stuckey,12,N\A,4,3,N\A
+Indiana Pacers,Luis Scola,15,6,N\A,N\A,N\A
+Philadelphia 76ers,Robert Covington,12,3,N\A,N\A,N\A
+Philadelphia 76ers,Nerlens Noel,10,12,N\A,N\A,3
+Philadelphia 76ers,Jason Richardson,10,3,N\A,2,N\A
+Philadelphia 76ers,Ish Smith,11,4,5,N\A,N\A
