@@ -11,10 +11,8 @@ df = pandas.concat(dataframes)
 
 # select columns
 df = df[['Points', 'Rebounds']]
-
 # clear invalid values
 df = df.applymap(pandas.to_numeric, errors='coerce').dropna()
-
 df = df[(df['Rebounds'] > 0) & (df['Points'] > 0)]
 
 cov_matrix = df.cov()

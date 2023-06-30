@@ -21,11 +21,10 @@ for i in range(1,31):
     df['Win Rate'] = df.apply(calculate_win_rate, axis=1)
     # Determine which team has a higher win rate for each game
     df['Higher Win Rate Team'] = df.apply(lambda row: 'Team 1' if row['Win Rate'] > (1 - row['Win Rate']) else 'Team 2', axis=1)
-
     # Count the number of games where the team with the higher win rate wins
-    higher_win_rate_wins += (df['Higher Win Rate Team'] == 'Team 1').sum()
-    total_games += df.shape[0]
-
+    if df['Score'].values[0] >= df['Score'].values[1] and df['Higher Win Rate Team'].values[0]=='Team 1':
+        higher_win_rate_wins+=1
+    total_games += 1
 
 # Calculate the overall percentage
 overall_percentage = (higher_win_rate_wins / total_games) * 100
