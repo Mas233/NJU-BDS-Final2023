@@ -65,7 +65,7 @@ import pandas
 
 dataframes = []
 for i in range(1, 31):
-    path = '../table_generation/tables/'+str(i)+'/PLAYERS.csv'
+    path = '../../table_generation/tables/'+str(i)+'/PLAYERS.csv'
     df = pandas.read_csv(path)
     dataframes.append(df)
 

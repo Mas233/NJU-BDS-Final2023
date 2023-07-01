@@ -32,9 +32,11 @@
 
 # Data_Analysis
 
-用python和Pandas进行的若干分析
+用Python,Excel进行的若干分析
 
-- `rebounds_points.*`：清洗数据后计算所有收集到的Points和Rebounds之间的协方差和相关系数
-- `winner_wins.*`：清洗数据后计算历史胜率更高的队伍赢得当局比赛的比例
+- `Rebounds Points`：清洗数据后计算所有收集到的Points和Rebounds之间的协方差和相关系数
+- `Winner Wins`：清洗数据后计算历史胜率更高的队伍赢得当局比赛的比例
 - `Wins and Loses`：每个球队随比赛次数的增加，胜负场次和胜率的变化
-- `GameResults`：有效球员数据的场况可视化
+- `Game Results`：球员数据的场况可视化
+- `Game Scores`：每场比赛数据汇总的得分总数和队员平均得分数及可视化
+- `Team Statistics`：队员各项指标按球队分组并计算总和及可视化

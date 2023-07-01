@@ -11,7 +11,7 @@ higher_win_rate_wins = 0
 for i in range(1,31):
 
     # read to dataframe
-    path = '../table_generation/tables/'+str(i)+'/OVERALL.csv'
+    path = '../../table_generation/tables/'+str(i)+'/OVERALL.csv'
     df = pandas.read_csv(path)
 
     # wash invalid data

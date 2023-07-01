@@ -9,7 +9,7 @@
   - 对每一个OVERALL表，首先读入并建立DataFrame类型：
     
     ```python
-        path = '../table_generation/tables/'+str(i)+'/OVERALL.csv'
+        path = '../../table_generation/tables/'+str(i)+'/OVERALL.csv'
         df = pandas.read_csv(path)
     ```
   
